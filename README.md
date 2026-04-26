@@ -74,7 +74,3 @@ curl -X POST http://localhost:8000/analyze \
 # Health check
 curl http://localhost:8000/health
 ```
-
-## Disclaimer
-
-⚠️ **For educational and demonstration purposes only.** Not intended for clinical use or medical decision-making.
