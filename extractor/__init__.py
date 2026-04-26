@@ -1,0 +1,1 @@
+# ClinIQ - Extractor Module
